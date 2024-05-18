@@ -1,8 +1,8 @@
 # CPE 019 - Emerging Technology 2: Final Project
 
-**Authors:** <br>
-QUEJADO, Jimlord M. <br>
-SERRANO, Jio A.
+### **Authors:** <br>
+* QUEJADO, Jimlord M. <br>
+* SERRANO, Jio A.
 
 ---
 
