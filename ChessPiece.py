@@ -59,7 +59,7 @@ def import_and_predict(image_data, model):
    
     size = (224, 224)
     image = image_data.convert("RGB")
-    image = ImageOps.fit(image_data, size, Image.Resampling.LANCZOS)
+    image = ImageOps.fit(image, size, Image.Resampling.LANCZOS)
     image_array = np.asarray(image)
     normalized_image_array = (image_array.astype(np.float32) / 127.5) - 1
     data[0] = normalized_image_array
