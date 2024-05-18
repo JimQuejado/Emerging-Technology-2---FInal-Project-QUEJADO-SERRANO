@@ -11,6 +11,17 @@ st.set_page_config(
     initial_sidebar_state = 'auto'
 )
 
+# for model loading
+st.set_option('deprecation.showfileUploaderEncoding', False)
+
+@st.cache_resource
+def load_model():
+    model = tf.keras.models.load_model('Chess_model.h5')
+    return model
+
+with st.spinner('Model is being loaded..'):
+    model = load_model()
+
 
 # Main body 
 
