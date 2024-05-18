@@ -56,8 +56,9 @@ data = np.ndarray(shape=(1, 224, 224, 3), dtype=np.float32)
 
 
 def import_and_predict(image_data, model):
-    image = image_data.convert("RGB")
+   
     size = (224, 224)
+    image = image_data.convert("RGB")
     image = ImageOps.fit(image_data, size, Image.Resampling.LANCZOS)
     image_array = np.asarray(image)
     normalized_image_array = (image_array.astype(np.float32) / 127.5) - 1
