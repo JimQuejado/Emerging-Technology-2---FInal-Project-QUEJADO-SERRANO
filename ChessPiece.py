@@ -48,7 +48,7 @@ st.markdown(page_bg_img, unsafe_allow_html=True)
 
 
 #header name (center)
-st.write("# Chess Piece CLassification")
+st.write("# Chess Piece Classification")
 
 #for predicting the model 
 file = st.file_uploader("", type=["jpg", "png"])
