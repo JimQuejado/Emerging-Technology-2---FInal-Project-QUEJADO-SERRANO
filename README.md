@@ -6,7 +6,7 @@
 
 ---
 
-<img width="5184" alt="Chess Piece Classification (72 x 24 in)" src="https://github.com/JimQuejado/Emerging-Technology-2---FInal-Project-QUEJADO-SERRANO/assets/157586862/6e64a05b-02bb-4cec-bada-ce15f8286dfd">
+<img width="5184" alt="Chess Piece Classification (72 x 24 in) (1)" src="https://github.com/JimQuejado/Emerging-Technology-2---FInal-Project-QUEJADO-SERRANO/assets/157586862/1d1de07f-2743-45f3-887d-d4fe105f029a">
 
 ### **ABOUT THE PROJECT**
 
