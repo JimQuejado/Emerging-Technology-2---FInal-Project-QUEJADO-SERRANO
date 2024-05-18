@@ -121,9 +121,9 @@ else:
     string = "Detected Piece: " + class_names[np.argmax(predictions)]
     st.sidebar.info(string)
     
-    index = np.argmax(predictions)
-    x = predictions[0][index]
-    st.sidebar.error("Confidence : " + str(round(x*100,2)) + " %")
+    #index = np.argmax(predictions)
+    #x = predictions[0][index]
+    #st.sidebar.error("Confidence : " + str(round(x*100,2)) + " %")
     
     detected_piece = class_names[np.argmax(predictions)]
     
