@@ -17,6 +17,7 @@ Chess is a timeless and globally cherished board game that has captivated player
 
 Evidently, novice players typically start by learning the basic functions and values of each piece because understanding the roles and movements of these pieces is fundamental to playing the game effectively. This project aims to create a model that identifies the chess piece uploaded by the user. The model was created usingGoogle Collaboratory and was deployed using Streamlit. 
 
+
 ![Chess Pieces](https://static.vecteezy.com/system/resources/thumbnails/005/417/950/small/set-of-silhouettes-chess-piece-illustration-template-icons-graphic-design-bundle-collection-isolated-chess-icon-free-vector.jpg)
 
 
@@ -26,12 +27,11 @@ Evidently, novice players typically start by learning the basic functions and va
 
 ---
 
-
-![image](https://github.com/JimQuejado/Emerging-Technology-2---FInal-Project-QUEJADO-SERRANO/assets/143239490/ade7b673-a5fc-4483-b5a2-7d40f9e6c2ac)
-
+![image](https://github.com/JimQuejado/Emerging-Technology-2---FInal-Project-QUEJADO-SERRANO/assets/157586862/15de1296-63f6-485f-8b8d-12e34e5d741e)
 
 
-![image](https://github.com/JimQuejado/Emerging-Technology-2---FInal-Project-QUEJADO-SERRANO/assets/143239490/b3eb0f18-3cef-4ff4-9ac5-f40e04a23df5)
+![image](https://github.com/JimQuejado/Emerging-Technology-2---FInal-Project-QUEJADO-SERRANO/assets/157586862/e5246b59-9a18-402a-8442-aab06c419e91)
+
 
 <p align="center">
 <img alt="Chess Piece Classification (72 x 24 in) (2)" src="https://github.com/JimQuejado/Emerging-Technology-2---FInal-Project-QUEJADO-SERRANO/assets/157586862/66ff382a-0b9a-4cf6-9be9-219b0553622b" width=10% height=10% >
