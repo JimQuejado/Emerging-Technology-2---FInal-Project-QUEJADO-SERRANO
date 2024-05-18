@@ -13,8 +13,7 @@
 
 Chess is a timeless and globally cherished board game that has captivated players for centuries with its blend of strategy, skill, and intellect. Originating in ancient India, it has evolved into one of the most popular and enduring games worldwide, played by millions of enthusiasts across cultures and generations. With its rich history, intricate rules, and limitless strategic possibilities, chess continues to fascinate players of all ages, from casual beginners to seasoned grandmasters. Whether enjoyed as a pastime, a competitive pursuit, or an intellectual challenge, chess offers a unique and immersive experience that transcends boundaries and fosters camaraderie, learning, and personal growth.
 
-The project aims to create a model that identifies the chess piece uploaded by the user. The model was created usingGoogle Collaboratory and was deployed using S
-Streamlit. 
+The project aims to create a model that identifies the chess piece uploaded by the user. The model was created usingGoogle Collaboratory and was deployed using Streamlit. 
 
 ![Chess Pieces](https://static.vecteezy.com/system/resources/thumbnails/005/417/950/small/set-of-silhouettes-chess-piece-illustration-template-icons-graphic-design-bundle-collection-isolated-chess-icon-free-vector.jpg)
 
@@ -30,3 +29,7 @@ Streamlit.
 
 
 ![image](https://github.com/JimQuejado/Emerging-Technology-2---FInal-Project-QUEJADO-SERRANO/assets/143239490/b3eb0f18-3cef-4ff4-9ac5-f40e04a23df5)
+
+<p align="center">
+<img alt="Chess Piece Classification (72 x 24 in) (2)" src="https://github.com/JimQuejado/Emerging-Technology-2---FInal-Project-QUEJADO-SERRANO/assets/157586862/66ff382a-0b9a-4cf6-9be9-219b0553622b" width=10% height=10% >
+</p>
