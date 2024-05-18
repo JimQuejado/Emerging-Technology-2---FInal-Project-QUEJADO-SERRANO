@@ -17,7 +17,7 @@ Chess is a timeless and globally cherished board game that has captivated player
 </p>
 
 <p align="justify">
-Evidently, novice players typically start by learning the basic functions and values of each piece because understanding the roles and movements of these pieces is fundamental to playing the game effectively. This project aims to create a model that identifies the chess piece uploaded by the user. The model was created usingGoogle Collaboratory and was deployed using Streamlit. 
+Evidently, novice players typically start by learning the basic functions and values of each piece because understanding the roles and movements of these pieces is fundamental to playing the game effectively. This project aims to create a model that identifies the chess piece uploaded by the user. The model was created using Google Collaboratory and was deployed using Streamlit. 
 </p>
 
 ![Chess Pieces](https://static.vecteezy.com/system/resources/thumbnails/005/417/950/small/set-of-silhouettes-chess-piece-illustration-template-icons-graphic-design-bundle-collection-isolated-chess-icon-free-vector.jpg)
