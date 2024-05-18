@@ -13,7 +13,8 @@
 
 Chess is a timeless and globally cherished board game that has captivated players for centuries with its blend of strategy, skill, and intellect. Originating in ancient India, it has evolved into one of the most popular and enduring games worldwide, played by millions of enthusiasts across cultures and generations. With its rich history, intricate rules, and limitless strategic possibilities, chess continues to fascinate players of all ages, from casual beginners to seasoned grandmasters. Whether enjoyed as a pastime, a competitive pursuit, or an intellectual challenge, chess offers a unique and immersive experience that transcends boundaries and fosters camaraderie, learning, and personal growth.
 
-The project aims to create a model that identifies the chess piece uploaded by the user. The model created using google collaboratory and was deployed using streamlit. 
+The project aims to create a model that identifies the chess piece uploaded by the user. The model was created usingGoogle Collaboratory and was deployed using S
+Streamlit. 
 
 ![Chess Pieces](https://static.vecteezy.com/system/resources/thumbnails/005/417/950/small/set-of-silhouettes-chess-piece-illustration-template-icons-graphic-design-bundle-collection-isolated-chess-icon-free-vector.jpg)
 
