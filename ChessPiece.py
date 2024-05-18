@@ -80,7 +80,7 @@ with st.sidebar:
     
     if file is None: 
        url='https://www.youtube.com/watch?v=PSzQw1AnvCE&t=0s'
-       st.video(url, loop=True, autoplay=True, muted=True)
+       st.video(url, loop=True, autoplay=True, muted=False)
     
 
       
